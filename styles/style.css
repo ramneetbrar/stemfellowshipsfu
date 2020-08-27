@@ -54,10 +54,15 @@ html {
   color: #343a45;
 }
 
-#eventsWelcome h1 {
+#secondaryWelcome h1 {
   text-align: center;
   padding: 10px 10px 10px 10px;
   font-size: 45px;
+  color: #343a45;
+}
+
+#eventsBody {
+  padding: 10px 10px 10px 20px;
 }
 
 body {
