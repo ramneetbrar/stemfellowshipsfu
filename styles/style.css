@@ -33,13 +33,6 @@ html {
   float: left;
 }
 
-/* #navbar h1{
-  display: inline-block;
-  font-size: 30px;
-  margin-top: 10px;
-  margin: 0;
-  color: F8F6F1;
-} */
 
 #welcome {
   background-color: #e9ecef;
@@ -59,6 +52,12 @@ html {
   font-size: 18px;
   text-align: justify;
   color: #343a45;
+}
+
+#eventsWelcome h1 {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  font-size: 45px;
 }
 
 body {
